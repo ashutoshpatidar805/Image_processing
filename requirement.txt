@@ -1,0 +1,10 @@
+numpy
+matplotlib
+seabornpip
+opencv-contrib-python
+tensorflow
+streamlit
+ipykernel
+opencv-python 
+pillow
+streamlit-webrtc
